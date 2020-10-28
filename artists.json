@@ -1,0 +1,7 @@
+{
+  "profiles": [
+    { "id": 1, "artist": "Metallica", "albums": ['Killem all', 'Ride the Lightnins']  },
+    { "id": 2, "artist": "Iron Maiden", "albums": ['Killers', 'Seventh son of the'] },
+    { "id": 3, "artist": "Black Sabath", "albums": ['Haven and hell'] }
+  ]
+}
