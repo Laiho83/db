@@ -1,6 +1,5 @@
 {
-   "profiles":[
-      {
+{
          "id":1,
          "artist":"Metallica",
          "albums":[
@@ -23,5 +22,4 @@
             "Haven and hell"
          ]
       }
-   ]
 }
