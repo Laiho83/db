@@ -13,6 +13,23 @@
       "title": "Post 3"
     }
   ],
+  "comments": [
+    {
+      "id": 1,
+      "postId": 1,
+      "body": "Some comment 1"
+    },
+    {
+      "id": 2,
+      "postId": 2,
+      "body": "Some comment 2"
+    },
+    {
+      "id": 3,
+      "postId": 3,
+      "body": "Some comment 3"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
