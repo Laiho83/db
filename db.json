@@ -16,16 +16,16 @@
   },
   "lists": [
     {
-      name: 'github',
-      url: 'https://github.com/'
+      "name": "github",
+      "url": "https://github.com/"
     },
     {
-      name: 'Youtube',
-      url: 'https://toutube.com/'
+      "name": "youtube",
+      "url": "https://youtube.com/"
     },
     {
-      name: 'rtvslo',
-      url: 'https://rtvslo.si/'
-    }
+      "name": "rtvslo",
+      "url": "https://rtvslo.si/"
+    },
   ]
 }
