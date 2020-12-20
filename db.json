@@ -13,5 +13,19 @@
   },
   "alerts": {
     "testAlert": "You have been warned!"
-  }
+  },
+  "lists": [
+    {
+      name: 'github',
+      url: 'https://github.com/'
+    },
+    {
+      name: 'Youtube',
+      url: 'https://toutube.com/'
+    },
+    {
+      name: 'rtvslo',
+      url: 'https://rtvslo.si/'
+    }
+  ]
 }
